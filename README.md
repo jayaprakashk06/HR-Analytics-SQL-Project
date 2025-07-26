@@ -1,5 +1,5 @@
 # HR-Analytics-SQL-Project
-# HR Analytics SQL Project
+
 
 ## Project Overview
 This project involves comprehensive HR data analysis using SQL, focusing on employee metrics, department analytics, and workforce insights. The analysis covers various aspects of human resources including salary distributions, attrition rates, department-wise analytics, and employee performance metrics.
